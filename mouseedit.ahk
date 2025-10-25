@@ -2,12 +2,13 @@
 
 XButton1::
 {
-    Send("+[")  ; Shift + [
+    Send("^+[")  ; Ctrl + Shift + [
 }
 
 XButton2::
 {
-    Send("+]")  ; Shift + ]
+    Send("^+]")  ; Ctrl + Shift + ]
 }
+
 
 #HotIf
