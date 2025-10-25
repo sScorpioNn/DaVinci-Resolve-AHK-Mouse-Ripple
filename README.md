@@ -3,8 +3,8 @@
 A simple script for **AutoHotkey v2** that remaps mouse side buttons to trimming shortcuts in **DaVinci Resolve**.
 
 ### 🔧 Mappings
-- **Mouse4** → `Shift + [` → *Trim Start*  
-- **Mouse5** → `Shift + ]` → *Trim End*  
+- **Mouse4** → `Ctrl + Shift + [` → *Ripple End to Playhead*  
+- **Mouse5** → `Ctrl + Shift + ]` → *Ripple Start to Playhead*  
 
 ### 💡 Usage
 1. Install **AutoHotkey v2**.  
