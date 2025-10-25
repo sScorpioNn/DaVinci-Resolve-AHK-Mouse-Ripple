@@ -1,6 +1,6 @@
 # 🎬 AutoHotkey Trim Script for DaVinci Resolve
 
-A simple script for **AutoHotkey v2** that remaps mouse side buttons to trimming shortcuts in **DaVinci Resolve**.
+A simple script for **AutoHotkey v2** that remaps mouse side buttons to ripple shortcuts in **DaVinci Resolve**.
 
 ### 🔧 Mappings
 - **Mouse4** → `Ctrl + Shift + [` → *Ripple End to Playhead*  
